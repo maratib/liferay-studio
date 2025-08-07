@@ -4,7 +4,7 @@ import starlight from "@astrojs/starlight";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://webpup.github.io",
+  site: "https://maratib.github.io/liferay-studio/",
   integrations: [
     starlight({
       title: "webpup",
@@ -12,7 +12,7 @@ export default defineConfig({
         {
           icon: "github",
           label: "GitHub",
-          href: "https://github.com/webpup",
+          href: "https://maratib.github.io/liferay-studio",
         },
       ],
       sidebar: [
